@@ -16,7 +16,7 @@ This project is an interactive Power BI dashboard developed to analyze consumer 
 
 1. Overview Dashboard
 
-The overview page presents key demographic and awareness-related insights, including:
+The overview page presents key demographic and awareness-related insights across 2 dashboard pages containing 12+ visualizations, including:
 
 * Total survey respondents
 * Consumer awareness percentage
@@ -57,11 +57,15 @@ The dataset was cleaned and transformed using Power Query, including:
 
 ## Key Insights
 
-• 83.48% of respondents are aware of eco-friendly products, yet only 35.65% are willing to pay a premium for them
-• Quality (71) and Price (61) are the top purchase drivers, suggesting consumers want eco-friendly products to compete on mainstream standards
-• 45.22% don't trust eco-friendly claims — the biggest barrier to adoption
-• 52 respondents purchase occasionally vs only 12 always — awareness hasn't converted to habit
-• Social media shows mixed impact — 59 agree it influences perception but 28 remain neutral
+• 83.48% of respondents are aware of eco-friendly products, yet only 35.65% are willing to pay a premium for them- suggesting awareness alone doesn't drive premium purchasing
+
+• Quality (71) and Price (61) are the top purchase drivers, suggesting consumers want eco-friendly products to compete on mainstream standards. They were ranked above environmental concern (55)
+
+• Only 33.04% trust eco-friendly claims while 45.22% remain unsure — revealing a significant credibility gap
+
+• 52 respondents purchase eco-friendly products only occasionally, indicating awareness has not converted to consistent buying habit
+
+• Social media was the top awareness source (45 of 115 respondents), followed by educational institutions (35)
 
 ## Skills Demonstrated
 
@@ -69,7 +73,7 @@ The dataset was cleaned and transformed using Power Query, including:
 * Data Modeling
 * DAX Measures and Calculations
 * Interactive Dashboard Design
-* Data Visualization
+* Data Visualization and Analysis
 * Business Insight Generation
 
 ##  Overview
@@ -82,5 +86,5 @@ The dataset was cleaned and transformed using Power Query, including:
 
 ## Project Outcome
 
-The dashboard provides a comprehensive view of consumer attitudes toward eco-friendly products and demonstrates how Power BI can be used to transform survey data into actionable insights.
+The dashboard reveals a critical gap between eco-friendly product awareness and actual purchasing commitment, offering actionable insights for brands targeting sustainability-conscious consumers
 
