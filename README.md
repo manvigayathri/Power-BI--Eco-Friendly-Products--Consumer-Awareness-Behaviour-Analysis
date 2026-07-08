@@ -77,7 +77,7 @@ The dataset was cleaned and transformed using Power Query, including:
 * Business Insight Generation
 
 ##  Overview
-<img width="1311" height="743" alt="Page 1- Eco Friendly Products- Consumer Awareness   Behaviour Analysis" src="https://github.com/user-attachments/assets/89449719-04cc-46fc-a507-4025c3f63764" />
+<img width="1428" height="803" alt="image" src="https://github.com/user-attachments/assets/d6666a10-f321-4b2d-93f0-2a1201bcbc36" />
 
 <img width="1308" height="738" alt="image" src="https://github.com/user-attachments/assets/8968bc29-aeb6-44da-a441-654d7f5b370c" />
 
